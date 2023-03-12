@@ -42,5 +42,16 @@
     "webpack": "^5.17.0",
     "webpack-cli": "^4.4.0",
     "webpack-dev-server": "^4.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudi-tm/ignite-componentizando-aplicacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/claudi-tm/ignite-componentizando-aplicacao/issues"
+  },
+  "homepage": "https://github.com/claudi-tm/ignite-componentizando-aplicacao#readme",
+  "description": ""
 }
